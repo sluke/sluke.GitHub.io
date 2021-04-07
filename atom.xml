@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://increcap.com</id>
+    <id>https://sluke.github.io</id>
     <title>增量资本</title>
-    <updated>2021-04-07T10:09:00.158Z</updated>
+    <updated>2021-04-07T10:10:53.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://increcap.com"/>
-    <link rel="self" href="http://increcap.com/atom.xml"/>
+    <link rel="alternate" href="https://sluke.github.io"/>
+    <link rel="self" href="https://sluke.github.io/atom.xml"/>
     <subtitle>找增量，有共赢</subtitle>
-    <logo>http://increcap.com/images/avatar.png</logo>
-    <icon>http://increcap.com/favicon.ico</icon>
+    <logo>https://sluke.github.io/images/avatar.png</logo>
+    <icon>https://sluke.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 增量资本</rights>
     <entry>
         <title type="html"><![CDATA[Hello，增量]]></title>
-        <id>http://increcap.com/post/hello-increcap/</id>
-        <link href="http://increcap.com/post/hello-increcap/">
+        <id>https://sluke.github.io/post/hello-increcap/</id>
+        <link href="https://sluke.github.io/post/hello-increcap/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>增量资本</strong> ！<br>
