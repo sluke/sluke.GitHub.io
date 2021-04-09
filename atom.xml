@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://increcap.com</id>
-    <title>增量资本 - 找增量，有共赢</title>
-    <updated>2021-04-09T06:35:43.308Z</updated>
+    <id>https://sluke.github.io</id>
+    <title>增量资本</title>
+    <updated>2021-04-09T06:38:10.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://increcap.com"/>
-    <link rel="self" href="https://increcap.com/atom.xml"/>
+    <link rel="alternate" href="https://sluke.github.io"/>
+    <link rel="self" href="https://sluke.github.io/atom.xml"/>
     <subtitle>找增量，有共赢</subtitle>
-    <logo>https://increcap.com/images/avatar.png</logo>
-    <icon>https://increcap.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, 增量资本 - 找增量，有共赢</rights>
+    <logo>https://sluke.github.io/images/avatar.png</logo>
+    <icon>https://sluke.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 增量资本</rights>
     <entry>
         <title type="html"><![CDATA[荣湃半导体获得由浦东科创集团、清控银杏创投联合投资的A⁺轮融资]]></title>
-        <id>https://increcap.com/post/rong-pai-ban-dao-ti-huo-de-you-pu-dong-ke-chuang-ji-tuan-qing-kong-yin-xing-chuang-tou-lian-he-tou-zi-de-alun-rong-zi/</id>
-        <link href="https://increcap.com/post/rong-pai-ban-dao-ti-huo-de-you-pu-dong-ke-chuang-ji-tuan-qing-kong-yin-xing-chuang-tou-lian-he-tou-zi-de-alun-rong-zi/">
+        <id>https://sluke.github.io/post/rong-pai-ban-dao-ti-huo-de-you-pu-dong-ke-chuang-ji-tuan-qing-kong-yin-xing-chuang-tou-lian-he-tou-zi-de-alun-rong-zi/</id>
+        <link href="https://sluke.github.io/post/rong-pai-ban-dao-ti-huo-de-you-pu-dong-ke-chuang-ji-tuan-qing-kong-yin-xing-chuang-tou-lian-he-tou-zi-de-alun-rong-zi/">
         </link>
         <updated>2021-04-08T06:18:47.000Z</updated>
         <summary type="html"><![CDATA[<p>近日，荣湃半导体获得由浦东科创、清控银杏联合投资的共近亿元A⁺轮投资。荣湃半导体的A⁺轮融资得到众多知名产业及专业投资机构的关注与支持。<br>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[打造企业统一数据安全入口，「图尔兹」想用新思路解决数据安全问题]]></title>
-        <id>https://increcap.com/post/da-zao-qi-ye-tong-yi-shu-ju-an-quan-ru-kou-tu-er-zi-xiang-yong-xin-si-lu-jie-jue-shu-ju-an-quan-wen-ti/</id>
-        <link href="https://increcap.com/post/da-zao-qi-ye-tong-yi-shu-ju-an-quan-ru-kou-tu-er-zi-xiang-yong-xin-si-lu-jie-jue-shu-ju-an-quan-wen-ti/">
+        <id>https://sluke.github.io/post/da-zao-qi-ye-tong-yi-shu-ju-an-quan-ru-kou-tu-er-zi-xiang-yong-xin-si-lu-jie-jue-shu-ju-an-quan-wen-ti/</id>
+        <link href="https://sluke.github.io/post/da-zao-qi-ye-tong-yi-shu-ju-an-quan-ru-kou-tu-er-zi-xiang-yong-xin-si-lu-jie-jue-shu-ju-an-quan-wen-ti/">
         </link>
         <updated>2021-03-05T06:07:49.000Z</updated>
         <summary type="html"><![CDATA[<p>数据安全是近年网络安全中的热点赛道。不论是合规市场的硬性驱动，还是企业客户旺盛的需求增长，有关数据安全的话题在近年时常引起关注。</p>
@@ -44,8 +44,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[DPU芯片公司“芯启源”完成数亿元Pre-A2轮融资，和利资本领投]]></title>
-        <id>https://increcap.com/post/dpu-xin-pian-gong-si-xin-qi-yuan-wan-cheng-shu-yi-yuan-pre-a2-lun-rong-zi-he-li-zi-ben-ling-tou/</id>
-        <link href="https://increcap.com/post/dpu-xin-pian-gong-si-xin-qi-yuan-wan-cheng-shu-yi-yuan-pre-a2-lun-rong-zi-he-li-zi-ben-ling-tou/">
+        <id>https://sluke.github.io/post/dpu-xin-pian-gong-si-xin-qi-yuan-wan-cheng-shu-yi-yuan-pre-a2-lun-rong-zi-he-li-zi-ben-ling-tou/</id>
+        <link href="https://sluke.github.io/post/dpu-xin-pian-gong-si-xin-qi-yuan-wan-cheng-shu-yi-yuan-pre-a2-lun-rong-zi-he-li-zi-ben-ling-tou/">
         </link>
         <updated>2021-02-23T06:20:49.000Z</updated>
         <summary type="html"><![CDATA[<p>芯启源电子科技有限公司近日宣布完成数亿元的Pre-A2轮融资，此轮融资由和利资本与软银中国共同领投。据悉，本轮募集资金将用于加速产品技术研发、产业生态布局和市场拓展。</p>
@@ -65,8 +65,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[提供微隔离软件定义安全产品，「蔷薇灵动」想帮企业管理东西向流量]]></title>
-        <id>https://increcap.com/post/ti-gong-wei-ge-chi-ruan-jian-ding-yi-an-quan-chan-pin-qiang-wei-ling-dong-xiang-bang-qi-ye-guan-li-dong-xi-xiang-liu-liang/</id>
-        <link href="https://increcap.com/post/ti-gong-wei-ge-chi-ruan-jian-ding-yi-an-quan-chan-pin-qiang-wei-ling-dong-xiang-bang-qi-ye-guan-li-dong-xi-xiang-liu-liang/">
+        <id>https://sluke.github.io/post/ti-gong-wei-ge-chi-ruan-jian-ding-yi-an-quan-chan-pin-qiang-wei-ling-dong-xiang-bang-qi-ye-guan-li-dong-xi-xiang-liu-liang/</id>
+        <link href="https://sluke.github.io/post/ti-gong-wei-ge-chi-ruan-jian-ding-yi-an-quan-chan-pin-qiang-wei-ling-dong-xiang-bang-qi-ye-guan-li-dong-xi-xiang-liu-liang/">
         </link>
         <updated>2020-04-10T06:13:58.000Z</updated>
         <summary type="html"><![CDATA[<p>在云时代，企业在实现功能时所需调用的数据越来越多，以往防火墙解决南北向流量（即数据中心外部用户和内部服务器之间交互的流量）的安全手段难以复用，如何保障东西向流量（即数据中心内部服务器之间交互的流量）的安全成为一个新话题。36氪日前接触到的一家网络安全公司——蔷薇灵动希望通过微隔离的手段帮助企业在云时代实现对数据中心的安全管理。</p>
@@ -80,8 +80,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[业务安全公司「人人云图」完成5000万A轮融资，计划在银行、航司、运营商和金融领域发力]]></title>
-        <id>https://increcap.com/post/ye-wu-an-quan-gong-si-ren-ren-yun-tu-wan-cheng-5000-wan-a-lun-rong-zi-ji-hua-zai-yin-xing-hang-si-yun-ying-shang-he-jin-rong-ling-yu-fa-li/</id>
-        <link href="https://increcap.com/post/ye-wu-an-quan-gong-si-ren-ren-yun-tu-wan-cheng-5000-wan-a-lun-rong-zi-ji-hua-zai-yin-xing-hang-si-yun-ying-shang-he-jin-rong-ling-yu-fa-li/">
+        <id>https://sluke.github.io/post/ye-wu-an-quan-gong-si-ren-ren-yun-tu-wan-cheng-5000-wan-a-lun-rong-zi-ji-hua-zai-yin-xing-hang-si-yun-ying-shang-he-jin-rong-ling-yu-fa-li/</id>
+        <link href="https://sluke.github.io/post/ye-wu-an-quan-gong-si-ren-ren-yun-tu-wan-cheng-5000-wan-a-lun-rong-zi-ji-hua-zai-yin-xing-hang-si-yun-ying-shang-he-jin-rong-ling-yu-fa-li/">
         </link>
         <updated>2020-03-13T06:15:10.000Z</updated>
         <summary type="html"><![CDATA[<p>36氪获悉，业务安全公司「人人云图」完成A轮融资，本轮融资金额为5000万，由琥珀资本领投，老股东红点创投中国基金跟投。</p>
@@ -105,8 +105,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[赢识科技：实体零售数字化与决策服务提供商]]></title>
-        <id>https://increcap.com/post/ying-shi-ke-ji-shi-ti-ling-shou-shu-zi-hua-yu-jue-ce-fu-wu-ti-gong-shang/</id>
-        <link href="https://increcap.com/post/ying-shi-ke-ji-shi-ti-ling-shou-shu-zi-hua-yu-jue-ce-fu-wu-ti-gong-shang/">
+        <id>https://sluke.github.io/post/ying-shi-ke-ji-shi-ti-ling-shou-shu-zi-hua-yu-jue-ce-fu-wu-ti-gong-shang/</id>
+        <link href="https://sluke.github.io/post/ying-shi-ke-ji-shi-ti-ling-shou-shu-zi-hua-yu-jue-ce-fu-wu-ti-gong-shang/">
         </link>
         <updated>2019-12-02T06:17:02.000Z</updated>
         <summary type="html"><![CDATA[<p>成立于2018年7月，「赢识科技」是一家线下商业智能化服务整体解决方案商，主要通过机器智能技术为线下商业场景提供消费者行为数字化解决方案。</p>
@@ -120,8 +120,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[计算机视觉公司「诠视科技 」获千万级Pre-A轮融资，君盛投资领投]]></title>
-        <id>https://increcap.com/post/ji-suan-ji-shi-jue-gong-si-quan-shi-ke-ji-huo-qian-wan-ji-pre-a-lun-rong-zi-jun-sheng-tou-zi-ling-tou/</id>
-        <link href="https://increcap.com/post/ji-suan-ji-shi-jue-gong-si-quan-shi-ke-ji-huo-qian-wan-ji-pre-a-lun-rong-zi-jun-sheng-tou-zi-ling-tou/">
+        <id>https://sluke.github.io/post/ji-suan-ji-shi-jue-gong-si-quan-shi-ke-ji-huo-qian-wan-ji-pre-a-lun-rong-zi-jun-sheng-tou-zi-ling-tou/</id>
+        <link href="https://sluke.github.io/post/ji-suan-ji-shi-jue-gong-si-quan-shi-ke-ji-huo-qian-wan-ji-pre-a-lun-rong-zi-jun-sheng-tou-zi-ling-tou/">
         </link>
         <updated>2019-10-28T06:00:50.000Z</updated>
         <summary type="html"><![CDATA[<p>今日，计算机视觉初创企业「<a href="https://36kr.com/projectDetails/442904">诠视科技</a>」宣布完成新一轮千万级Pre-A轮融资，本轮融资由君盛投资领投，苏州智郎跟投。<a href="http://baijiahao.baidu.com/s?id=1648591150576102891&amp;wfr=spider&amp;for=pc">据悉</a>，此轮融资资金将用于完成从核心技术到系统集成能力的建设、人才队伍建设，以及布局特定垂直领域。</p>
@@ -137,8 +137,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[为企业提供现金流管理服务，「司库立方」获信天创投、海贝资本数千万元Pre-A轮投资]]></title>
-        <id>https://increcap.com/post/wei-qi-ye-ti-gong-xian-jin-liu-guan-li-fu-wu-si-ku-li-fang-huo-xin-tian-chuang-tou-hai-bei-zi-ben-shu-qian-wan-yuan-pre-a-lun-tou-zi/</id>
-        <link href="https://increcap.com/post/wei-qi-ye-ti-gong-xian-jin-liu-guan-li-fu-wu-si-ku-li-fang-huo-xin-tian-chuang-tou-hai-bei-zi-ben-shu-qian-wan-yuan-pre-a-lun-tou-zi/">
+        <id>https://sluke.github.io/post/wei-qi-ye-ti-gong-xian-jin-liu-guan-li-fu-wu-si-ku-li-fang-huo-xin-tian-chuang-tou-hai-bei-zi-ben-shu-qian-wan-yuan-pre-a-lun-tou-zi/</id>
+        <link href="https://sluke.github.io/post/wei-qi-ye-ti-gong-xian-jin-liu-guan-li-fu-wu-si-ku-li-fang-huo-xin-tian-chuang-tou-hai-bei-zi-ben-shu-qian-wan-yuan-pre-a-lun-tou-zi/">
         </link>
         <updated>2019-05-31T06:06:10.000Z</updated>
         <summary type="html"><![CDATA[<p>36氪获悉，企业智能全生命周期现金流管理平台司库立方，获信天创投、海贝资本数千万元preA轮投资，本轮融资资本将用于市场拓展和产品研发。此前，2017年11月，司库立方曾获得AA投资领投的1000万元天使轮投资。</p>
@@ -153,8 +153,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello，增量]]></title>
-        <id>https://increcap.com/post/hello-increcap/</id>
-        <link href="https://increcap.com/post/hello-increcap/">
+        <id>https://sluke.github.io/post/hello-increcap/</id>
+        <link href="https://sluke.github.io/post/hello-increcap/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>增量资本</strong> ！</p>
